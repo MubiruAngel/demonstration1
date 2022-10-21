@@ -1,2 +1,2 @@
 web: gunicorn app:app
-heroku-color=0
+heroku_color=0
